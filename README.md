@@ -1,6 +1,6 @@
 # Command Line Uploader
 
 * Change the first two lines of the file with your information
-* ./uploader
+* ./uploader username@host /path/to/wefolder (./uploader shuffleres@cs.appstate.edu ~/Documents/WAGS/we)
 * Wait for it to finish
 * Refresh your browser
